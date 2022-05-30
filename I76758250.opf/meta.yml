@@ -1,0 +1,25 @@
+id: I76758250
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:12:56.328230'
+last_modified: '2022-05-30T22:12:56.328236'
+parser: null
+source_metadata:
+  title: Khenchen Tashi Özer Series
+  language: bo
+  description: 'Texts by Khenchen Tashi Özer (mkhan chen bkra shis ''od zer, 1836–1910),
+    the renowned disciple of Kongtrul Lodrö Thaye and others:'
+  volume:
+    f5644:
+      title: Advice for Satsa Drupgen
+      base_file: f5644.txt
+      order: 1
+      parent: Advice
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
